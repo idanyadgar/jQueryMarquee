@@ -2,7 +2,7 @@
  * Created by Idan Yadgar, from http://web-school.co.il
  * All Rights Reserved
  * Do NOT remove this
- * Version 2.0
+ * Version 1.0
  */
 (function($) {
 	$.fn.marquee = function(properties) {
