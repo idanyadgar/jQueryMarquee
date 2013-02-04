@@ -3,7 +3,7 @@
  * All Rights Reserved
  * Do NOT remove this
  * Version 1.0
- */
+ */s
 (function($) {
 	$.fn.marquee = function(properties) {
 		if (!this.data().hasOwnProperty('marquee')) {

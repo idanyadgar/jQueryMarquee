@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" dir="ltr">
-	<head>
+	<head>s
 		<title>Marquee V2.0</title>
 		<script src="http://code.jquery.com/jquery-1.7.2.js"></script>
 		<script src="/demos/marquee/v2.0/marquee.js"></script>
