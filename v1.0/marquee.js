@@ -1,5 +1,5 @@
 /*
- * Created by Idan Yadgar, from http://web-school.co.il
+ * Created by Idan Yadgar, from http://webhub.co.il
  * All Rights Reserved
  * Do NOT remove this
  * Version 1.0
